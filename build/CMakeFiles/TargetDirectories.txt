@@ -1,0 +1,16 @@
+/Users/zoowayss/Documents/workspace/zoowayss/code/bmw330/usb-lib/build/CMakeFiles/test.dir
+/Users/zoowayss/Documents/workspace/zoowayss/code/bmw330/usb-lib/build/CMakeFiles/edit_cache.dir
+/Users/zoowayss/Documents/workspace/zoowayss/code/bmw330/usb-lib/build/CMakeFiles/rebuild_cache.dir
+/Users/zoowayss/Documents/workspace/zoowayss/code/bmw330/usb-lib/build/common/CMakeFiles/usb_common.dir
+/Users/zoowayss/Documents/workspace/zoowayss/code/bmw330/usb-lib/build/common/CMakeFiles/test.dir
+/Users/zoowayss/Documents/workspace/zoowayss/code/bmw330/usb-lib/build/common/CMakeFiles/edit_cache.dir
+/Users/zoowayss/Documents/workspace/zoowayss/code/bmw330/usb-lib/build/common/CMakeFiles/rebuild_cache.dir
+/Users/zoowayss/Documents/workspace/zoowayss/code/bmw330/usb-lib/build/sender/CMakeFiles/usb_sender.dir
+/Users/zoowayss/Documents/workspace/zoowayss/code/bmw330/usb-lib/build/sender/CMakeFiles/test.dir
+/Users/zoowayss/Documents/workspace/zoowayss/code/bmw330/usb-lib/build/sender/CMakeFiles/edit_cache.dir
+/Users/zoowayss/Documents/workspace/zoowayss/code/bmw330/usb-lib/build/sender/CMakeFiles/rebuild_cache.dir
+/Users/zoowayss/Documents/workspace/zoowayss/code/bmw330/usb-lib/build/tests/CMakeFiles/test_protocol.dir
+/Users/zoowayss/Documents/workspace/zoowayss/code/bmw330/usb-lib/build/tests/CMakeFiles/test_network.dir
+/Users/zoowayss/Documents/workspace/zoowayss/code/bmw330/usb-lib/build/tests/CMakeFiles/test.dir
+/Users/zoowayss/Documents/workspace/zoowayss/code/bmw330/usb-lib/build/tests/CMakeFiles/edit_cache.dir
+/Users/zoowayss/Documents/workspace/zoowayss/code/bmw330/usb-lib/build/tests/CMakeFiles/rebuild_cache.dir

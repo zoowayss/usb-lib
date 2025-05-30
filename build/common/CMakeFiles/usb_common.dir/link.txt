@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libusb_common.a CMakeFiles/usb_common.dir/protocol/usbip_protocol.cpp.o CMakeFiles/usb_common.dir/protocol/usb_types.cpp.o CMakeFiles/usb_common.dir/network/tcp_socket.cpp.o CMakeFiles/usb_common.dir/network/message_handler.cpp.o CMakeFiles/usb_common.dir/utils/logger.cpp.o CMakeFiles/usb_common.dir/utils/buffer.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libusb_common.a
